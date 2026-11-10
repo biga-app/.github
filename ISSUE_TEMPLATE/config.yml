@@ -2,8 +2,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Documentation
-    url: https://website-vw4l.vercel.app/
+    url: https://biga.n10nce.dev/
     about: Check the documentation before opening a support issue.
   - name: Security vulnerability
-    url: https://github.com/biga-sh/.github/security/advisories/new
+    url: https://github.com/biga-app/.github/security/advisories/new
     about: Privately report a security vulnerability if enabled.
